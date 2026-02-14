@@ -1,4 +1,4 @@
-#OxF
+# OxF
 
 Simple 2048 clone game made in Zig 0.14.1
 
